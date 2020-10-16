@@ -1,0 +1,61 @@
+body {
+  background-color: white;
+}
+
+.all {
+  width: 90%;
+  margin-left: 5%;
+  background-color: #09012e;
+}
+
+.logo {
+  width: 3rem;
+}
+
+#bannerheading {
+  margin-left: 15rem;
+  text-shadow: purple 2px 2px 2px 2px solid;
+}
+
+#header {
+  background-image: url(./images/backgroundbanner3.jpeg);
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 18rem;
+}
+
+#content {
+  margin-left: 8rem;
+}
+
+#brand {
+  text-align: center;
+}
+
+#select {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+#footerh {
+  color: white;
+}
+/*# sourceMappingURL=advanced.css.map */

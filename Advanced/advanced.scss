@@ -1,0 +1,48 @@
+    body{
+        background-color:white;
+        }
+.all{
+    width: 90%;
+    margin-left: 5%;
+    background-color: rgb(9, 1, 46);
+    }
+.logo{
+    width: 3rem;
+}
+#bannerheading{
+    margin-left: 15rem;
+    text-shadow: purple 2px 2px 2px 2px solid;
+}
+#header{
+    background-image: url(./images/backgroundbanner3.jpeg);
+    object-fit: cover;
+    // background-size: cover;
+    height: 18rem;
+}
+#content{
+    margin-left: 8rem;
+}
+#brand {
+    text-align: center;
+}
+#select {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#main{
+    // background-image: url(./images/backgroundbanner3.jpeg);
+    // object-fit: cover;
+
+}
+#footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+#footerh{
+    color:white;
+    // rgb(16, 2, 78)
+}
