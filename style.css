@@ -1,0 +1,21 @@
+body {
+
+	background-color: black;
+}
+
+
+.rick {
+
+	background-color: #FF01C1;
+	height: 4rem;
+	color:  #1EA4A9;
+	font-size: 200%;
+	font-weight: bold;
+	text-align: center;
+}
+
+.sizeX {
+
+	width: 40rem;
+
+}
